@@ -1,0 +1,23 @@
+{
+  "name":"OFFSET/STUDIO",
+  "slug":"offset-studio",
+  "category":"Agency / Creative",
+  "subgenres":["Creative Studio"],
+  "description":"An asymmetric editorial portfolio for an independent multidisciplinary studio working across identity, campaigns and cultural projects.",
+  "tier":"Pro",
+  "framework":"React",
+  "language":"TypeScript",
+  "styling":"Tailwind CSS",
+  "backend":false,
+  "database":false,
+  "pages":["Home","Work","PALM","After Hours","Common Ground","Field Notes","Studio","Contact"],
+  "features":["Interactive project index","Editorial project details","Masked image reveals","Responsive navigation","Reduced-motion support"],
+  "visualStyle":["Editorial","Asymmetric","Typography-led","Photography-led"],
+  "navigationStyle":"Compact editorial header with numbered mobile index",
+  "heroStyle":"Project-led editorial index without conventional CTA hero",
+  "interactionLevel":"Moderate",
+  "responsive":true,
+  "customizationAvailable":true,
+  "suggestedCardPresentation":"editorial",
+  "suggestedPreviewComposition":"immersive"
+}
